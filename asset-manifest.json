@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hello-world-test/static/css/main.d3f38f98.chunk.css",
+    "main.js": "/hello-world-test/static/js/main.175fad24.chunk.js",
+    "main.js.map": "/hello-world-test/static/js/main.175fad24.chunk.js.map",
+    "runtime-main.js": "/hello-world-test/static/js/runtime-main.dfbaf74a.js",
+    "runtime-main.js.map": "/hello-world-test/static/js/runtime-main.dfbaf74a.js.map",
+    "static/js/2.8ee0b6b2.chunk.js": "/hello-world-test/static/js/2.8ee0b6b2.chunk.js",
+    "static/js/2.8ee0b6b2.chunk.js.map": "/hello-world-test/static/js/2.8ee0b6b2.chunk.js.map",
+    "index.html": "/hello-world-test/index.html",
+    "static/css/main.d3f38f98.chunk.css.map": "/hello-world-test/static/css/main.d3f38f98.chunk.css.map",
+    "static/js/2.8ee0b6b2.chunk.js.LICENSE.txt": "/hello-world-test/static/js/2.8ee0b6b2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfbaf74a.js",
+    "static/js/2.8ee0b6b2.chunk.js",
+    "static/css/main.d3f38f98.chunk.css",
+    "static/js/main.175fad24.chunk.js"
+  ]
+}
